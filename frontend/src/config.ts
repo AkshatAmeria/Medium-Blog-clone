@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://medium.120104-akshat.workers.dev"
